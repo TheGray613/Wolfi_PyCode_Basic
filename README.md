@@ -1,2 +1,2 @@
 # Wolfi.PyCode
-All my python code in easy and medium and hard level :-)))
+All my python code in Easy and Medium and Tough level :-)))
