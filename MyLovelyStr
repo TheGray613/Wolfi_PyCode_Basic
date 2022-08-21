@@ -1,0 +1,7 @@
+my_str1= "hello DOG"     #az 0 va chap shuru be shemordan konid 
+print (my_str1 [3])
+print (my_str1 [3:5])    #print kon baram 0 ta 5 ro (vali khode 5 hesab nemishe)
+
+my_str2 = "i love you sparkles cat"
+print (my_str2[0:9:3])   #bia baram 0 ta 9 ro ba qadame 3 taei boro
+print (my_str2[::2])     #az ebteda ta enteha ro yeki dar mion neshun bede
