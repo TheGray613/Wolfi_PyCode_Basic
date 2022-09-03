@@ -20,6 +20,7 @@ print(type(User_age))
 
 #raveshe convert str be int(khurujie tabee input str hast)
 print (int(User_age) + 7)
+my_score = int(input("pls enter youre score: "))
 
 #az jaie ke motmaen budim vurudie ma az karbar hatman adade dar hamun ebteda an ra be int tabdil kardim
 Phone_number = int(input("pls insert youre phone number"))
