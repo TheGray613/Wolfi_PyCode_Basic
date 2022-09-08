@@ -13,8 +13,6 @@ colors = ["blue", "black", "white"]
 for color in colors:
     print (color * 25)
 
-#video 3
-
 my_str = " wolfi is the best"
 for new in my_str:
     print (new, 1)
