@@ -1,7 +1,0 @@
-number1 = 2
-number2 = 4
-number3 = 10
-
-print ((number1 * number2)  + number3) 
-# nam gozarie osuli faramush nashe ! 
-#Do not forgot using right name(standard name for input)
