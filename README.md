@@ -7,7 +7,7 @@ Welcome to python toturial by wolfi613.
 
 # Installation 
  https://www.python.org/downloads/
-# Usage in :
+# Usage
  Python one of the best programming language in world. Python is often used as a support language for software developers, for build control and management, testing, and in many other ways. SCons for build control. Buildbot and Apache Gump for automated continuous compilation and testing. Roundup or Trac for bug tracking and project management.
 
 
