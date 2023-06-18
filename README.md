@@ -7,7 +7,7 @@ Welcome to python toturial by wolfi613.
 
 # Intrude
  I workinG with people and understand people want be a programmer but dont know why and how. wolfi-pycode-basic wanna make a PYTHON ANALYZER not a python developer or a python programmer. its just your first step, be a PYTHON ANALYZER at first.
-# ُtep by step together 
+#Step by step together 
  i know you want be a expert python developer but its not possible when you can not analyze and make simple code for yourself. start with (1) and try to practice and search about question in line of code with comment type.
 # Installation 
  https://www.python.org/downloads/
