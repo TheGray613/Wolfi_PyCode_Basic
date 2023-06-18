@@ -7,3 +7,5 @@ my_tuple = (1, 2, "merry jane")
 my_bool = True
 
 print (type(my_dic))
+
+# can you tell how many type available in python programming ?
